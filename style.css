@@ -2,9 +2,10 @@ body{
     font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif; 
     color: #000000;
 	cursor: url("images/cursor.png"), default;
-	}
-
+	letter-spacing: 3px;
 }
+
+
 
 a:link {text-decoration: none;
 }
